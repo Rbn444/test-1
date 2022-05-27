@@ -1,0 +1,113 @@
+/* generali */
+
+*{  width: 100%;
+    box-sizing: border-box;
+    text-align: center;}
+
+    
+
+body {width: 100%;
+        color: #393d41;}
+       
+/* header */
+header img {
+    width: 9rem;
+    padding-top: 1.8rem;
+    padding-bottom: 2rem;}
+
+header div {background-color: black;}
+/*body*/
+h1 {color: #25a2c3;
+    font-weight: bold;}
+
+h2 {color: #25a2c3;
+    font-weight: bold;}
+
+#pcorso { padding-bottom: 2rem;}
+
+#corso {background-image: url(../images/banner.jpg);
+        background-size: cover;}
+
+
+#button  {
+    border:0.1rem solid #f04c2f ;
+    border-radius: 0.5rem;
+    background-color: #f04c2f;
+    padding: 0.8rem 2.5rem 1rem 2.5rem;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;}
+
+article {
+    background-color:  #e22d0e;
+    }
+article h1 {
+    color: white;
+    padding-top: 4rem;
+    font-size: 1.65rem;
+    padding-right: 4rem;
+}
+article p {
+    color: white;
+    line-height: 1.65rem;
+    }
+
+#it {
+    font-style: italic;
+}
+
+#cit {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+#notebook {
+    height: 18rem;
+    width: 18rem;
+    border-radius: 50%;
+    margin-top: 2rem;
+}
+
+
+.art {
+    border: 0.1rem solid rgb(214, 212, 212);
+    padding-bottom: 2rem;
+    margin-top: 2rem;
+    margin-bottom:2rem ;
+}
+
+/* footer */
+
+footer {
+    background-color: #25a2c3;
+}
+ footer h1 {
+     color: white;
+     font-size: 2.2rem;
+     padding-right: 2.5rem;
+ }
+
+footer i {
+    color: white;
+}
+
+footer a {
+    color:  #c8e7f0;
+}
+
+#contatti {
+    padding-bottom: 2rem;
+}
+
+#copy {
+    text-align: center;
+    border-top: 0.1rem solid white;
+}
+#lastp {
+    color: white;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+#via {
+    display: inline;
+}
